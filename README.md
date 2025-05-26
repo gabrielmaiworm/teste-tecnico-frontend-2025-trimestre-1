@@ -33,4 +33,6 @@ Este teste busca avaliar as seguintes competências:
 
 
 Horario de Inicio: 14:45
-Horario de Fim: 15:10
+Horario de Fim: 15:28
+
+https://teste-tecnico-frontend-2025-trimestre-1-xi.vercel.app/
