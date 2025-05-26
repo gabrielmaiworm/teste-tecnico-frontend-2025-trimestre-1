@@ -27,6 +27,7 @@ export class AddressService {
           return null
         }
         
+        // eslint-disable-next-line @typescript-eslint/no-unused-vars
         const { erro, ...address } = data
         return address
       } catch {
