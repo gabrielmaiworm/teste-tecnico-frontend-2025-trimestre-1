@@ -30,5 +30,3 @@ Este teste busca avaliar as seguintes competências:
 - Domínio sobre as APIs de uso rotineiro do navegador;
 - Capacidade de organização de código (Adendo: organize da forma que for mais familiarizado, não estamos olhando para a estrutura de pastas, mas sim para a coesão e o desacoplamento) e
 - Domínio sobre APIs do Framework React.jS e árvore DOM.
-
-
